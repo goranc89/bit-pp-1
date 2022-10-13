@@ -1,7 +1,11 @@
-var a = 1
-var b = 'goose'
+var a = 10
+var b = 'cat'
 if (a>1) {
-    result = a + ' geese'
+    result = a + b +'s'
+ if (b == 'goose'&& a > 1) 
+{result = a +' geese'}
+ if (b == 'sheep' && a > 1) 
+{result = a +' sheep'}
 }
-else {result = a + 'goose'}
+else {result = a + b}
 console.log(result)
