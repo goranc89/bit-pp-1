@@ -64,3 +64,6 @@
       }
     }
     console.log(sum);
+
+
+// Bravo!!! Mala tema za razmisljanje: da li si probala obrnuto ovo da uradis, da poredis sa brojevima umesto sa slovima?
